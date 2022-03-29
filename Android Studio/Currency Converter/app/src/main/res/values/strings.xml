@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="settingsInput">Enter number of decimal places</string>
+    <string name="settingsDone">Done</string>
+    <string name="mainClear">clear</string>
+    <string name="mainSettings">settings</string>
+    <string name="usd">USD</string>
+    <string name="gbp">GBP</string>
+    <string name="eur">EUR</string>
+    <string name="aud">AUD</string>
+    <string name="jpy">JPY</string>
+    <string name="chf">CHF</string>
+    <string name="userInput">Enter amount</string>
+</resources>
